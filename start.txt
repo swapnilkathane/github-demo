@@ -4,5 +4,6 @@ To Check Conflits using p4
 main branch change on webdevelop
 Before pull 
 
+someone push his/her change on webdevelop in start.txt
 
 I have changes in same file and try to take pull from webdevelop
