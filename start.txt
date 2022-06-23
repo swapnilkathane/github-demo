@@ -3,3 +3,5 @@ To Check Conflits using p4
 
 main branch change on webdevelop
 Before pull 
+
+someone push his/her change on webdevelop in start.txt
